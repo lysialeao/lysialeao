@@ -1,6 +1,6 @@
 # lysia leão
 
-I'm a front-end developer with over two years of experience, specializing in implementing new features, automating processes, and suggesting improvements. My focus is on front-end engineering and software processes, and I'm always learning and exploring emerging technologies to improve as a code artisan.
+I'm a front-end developer with over three years of experience, specializing in implementing new features, automating processes, and suggesting improvements. My focus is on front-end engineering and software processes, and I'm always learning and exploring emerging technologies to improve as a code artisan.
 
 I'm also an active member of women's communities in technology, passionate about promoting diversity and inclusion in the tech industry.
 
