@@ -4,8 +4,6 @@ I'm a front-end developer with over three years of experience, specializing in i
 
 I'm also an active member of women's communities in technology, passionate about promoting diversity and inclusion in the tech industry.
 
-On a personal note, I'm a vegetarian and advocate for animal rights and the environment. I've worked on ESG projects in the past and believe in creating a sustainable future for all. 💚
-
 ## contact me
 
 Feel free to drop me a line if you'd like to learn more about me or my work.
